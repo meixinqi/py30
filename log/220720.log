@@ -1,0 +1,36 @@
+2022-07-20 13:40:15,616 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:40:15,617 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:40:15,617 handle_requests.py [line:64] INFO 请求方法为：post
+2022-07-20 13:40:15,618 handle_requests.py [line:65] INFO 请求url为：None
+2022-07-20 13:40:15,618 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': '13845467789', 'pwd': '1234567890'}
+2022-07-20 13:40:26,201 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:40:26,201 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:40:26,202 handle_requests.py [line:64] INFO 请求方法为：post
+2022-07-20 13:40:26,202 handle_requests.py [line:65] INFO 请求url为：None
+2022-07-20 13:40:26,202 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': '13845467789', 'pwd': '1234567890'}
+2022-07-20 13:41:54,869 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:41:54,869 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:41:54,869 handle_requests.py [line:64] INFO 请求方法为：POST
+2022-07-20 13:41:54,869 handle_requests.py [line:65] INFO 请求url为：None
+2022-07-20 13:41:54,869 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': 13845467789, 'pwd': '1234567890'}
+2022-07-20 13:43:23,460 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:43:23,460 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:43:23,460 handle_requests.py [line:64] INFO 请求方法为：post
+2022-07-20 13:43:23,460 handle_requests.py [line:65] INFO 请求url为：http://8.129.91.152:8766/futureloan/member/register
+2022-07-20 13:43:23,460 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': '13845467789', 'pwd': '1234567890'}
+2022-07-20 13:43:23,569 handle_requests.py [line:73] INFO 响应状态码为：200
+2022-07-20 13:43:23,570 handle_requests.py [line:74] INFO 响应数据为：{'code': 0, 'msg': 'OK', 'data': {'id': 16719, 'reg_name': '小柠檬', 'mobile_phone': '13845467789'}, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2022-07-20 13:43:59,181 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:43:59,182 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:43:59,182 handle_requests.py [line:64] INFO 请求方法为：post
+2022-07-20 13:43:59,182 handle_requests.py [line:65] INFO 请求url为：http://8.129.91.152:8766/futureloan/member/register
+2022-07-20 13:43:59,182 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': '13845467789', 'pwd': '1234567890'}
+2022-07-20 13:43:59,280 handle_requests.py [line:73] INFO 响应状态码为：200
+2022-07-20 13:43:59,280 handle_requests.py [line:74] INFO 响应数据为：{'code': 2, 'msg': '账号已存在', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2022-07-20 13:44:29,591 handle_requests.py [line:56] INFO 发起一次HTTP请求
+2022-07-20 13:44:29,592 handle_requests.py [line:63] INFO 请求头为：{'X-Lemonban-Media-Type': 'lemonban.v2', 'Content-Type': 'application/json'}
+2022-07-20 13:44:29,592 handle_requests.py [line:64] INFO 请求方法为：post
+2022-07-20 13:44:29,593 handle_requests.py [line:65] INFO 请求url为：http://8.129.91.152:8766/futureloan/member/register
+2022-07-20 13:44:29,593 handle_requests.py [line:66] INFO 请求数据为：{'mobile_phone': '13845467789', 'pwd': '1234567890'}
+2022-07-20 13:44:29,700 handle_requests.py [line:73] INFO 响应状态码为：200
+2022-07-20 13:44:29,700 handle_requests.py [line:74] INFO 响应数据为：{'code': 2, 'msg': '账号已存在', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
